@@ -1,5 +1,5 @@
 A basic calculator website
 
-<img src="https://www.i.hizliresim.com/q1cszru">
+<img src="https://cdn.discordapp.com/attachments/982704824892162154/1021081629617307788/Screenshot_1.png">
 
-<img src="https://www.i.hizliresim.com/9z65jii">
+<img src="https://cdn.discordapp.com/attachments/982704824892162154/1021081721623560252/9z65jii.jpg">
